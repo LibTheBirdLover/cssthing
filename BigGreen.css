@@ -1,0 +1,7 @@
+.title {
+	visibility: hidden;
+}
+.title:after {
+	visibility: visible;
+	content: "Star Shop";
+}
